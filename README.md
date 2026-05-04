@@ -19,9 +19,9 @@ The goal of this project is to understand customer purchasing patterns, spending
 
 ## 🧰 Tech Stack
 
-- Python (Pandas)  
-- MySQL (for querying and data storage)  
-- Power BI (for visualization and dashboarding)  
+- Python Pandas  
+- MySQL 
+- Power BI   
 
 ---
 
