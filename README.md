@@ -39,4 +39,15 @@ The goal of this project is to understand customer purchasing patterns, spending
 
 ---
 
-## 🔄 Workflow
+## 📌 Key Highlights
+
+- Cleaned and preprocessed raw data  
+- Performed EDA to uncover insights  
+- Used SQL for business queries  
+- Built an interactive dashboard in Power BI  
+
+---
+
+## 🚀 Conclusion
+
+This project demonstrates an end-to-end data analysis workflow combining Python, SQL, and Power BI to derive meaningful business insights.
